@@ -12,7 +12,7 @@ No seu relógio vá em configurações -> sistema -> sobre. Agora ache o campo N
 
 2. Agora é necessário habilitar a depuração por Wi-fi:
 
-No seu relógio vá em configurações -> opções do desenvolvedor. Agora habilite a opção depuração ADB ( irá aparecer um dialog perguntar se você realmente quer habilitar essa funcionalidade, aperte para confirmar)  e depois Habilite a depuração por WI-FI. Pode demorar alguns segundos e em baixo irá aparecer o endereço IP que você usará para se conectar ao relogio. O IP deve parecer algo como isto: 192.168.0.27:5555
+No seu relógio vá em configurações -> opções do desenvolvedor. Agora habilite a opção depuração ADB ( irá aparecer um dialog perguntar se você realmente quer habilitar essa funcionalidade, aperte para confirmar)  e depois Habilite a depurar por WI-FI. Pode demorar alguns segundos e em baixo irá aparecer o endereço IP que você usará para se conectar ao relogio. O IP deve parecer algo como isto: 192.168.0.27:5555
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/38574345/154283512-609beab7-3edd-467e-833c-fe1201c192e9.png">
 
