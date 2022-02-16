@@ -1,4 +1,4 @@
-# InstallAPKonWearOs
+# Install APK on Wear Os
 
 Este é um breve tutorial ensinando como install um APK no WearOs, neste tutorial estarei utilizando o moto360 (wear) e um computador com sistema operacional linux.
 
