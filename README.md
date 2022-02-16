@@ -17,7 +17,7 @@ No seu relógio vá em configurações -> opções do desenvolvedor. Agora habil
 
 Ou seja, no meu caso o IP foi 192.168.0.108:5555
 
-3. Agora **NO COMPUTADOR** digite o seguinte comando (no terminal) para conectar ao relógio: ``` adb connect <ip>``` no meu caso ficou: 
+3. Agora **NO COMPUTADOR** digite o seguinte comando (no terminal) para se conectar ao relógio: ``` adb connect <ip>``` no meu caso ficou: 
  ``` adb connect 192.168.0.108:5555```
 
 4. Ainda no computador, abra o terminal vá na pasta a onde você deixou o APK do relógio e digite o seguinte comando ``` adb -e install <nome do apk>``` no meu caso ficou da seguinte forma:   ```adb -e install wearable-staging.apk```
